@@ -4,6 +4,8 @@
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/matt-wang-FaFZCtl1yug.jpg" width="600" />
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/studio.jpg" width="600" />
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/pink-unicat.png" width="600" />
+  <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/star_wars.jpg" width="600" />
+  <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/millennium_falcon.jpg" width="600" />
   
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/catppuccino/catppuccino_rosewater.jpg" width="600" />
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/catppuccino/catppuccino_flamingo.jpg" width="600" />
