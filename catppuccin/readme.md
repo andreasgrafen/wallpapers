@@ -6,6 +6,10 @@
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/pink-unicat.png" width="600" />
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/star_wars.jpg" width="600" />
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/millennium_falcon.jpg" width="600" />
+
+  <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/alena_aenami-eclipse-catppuccin_blue.png" width="600" />
+  <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/alena_aenami-eclipse-catppuccin_purple.png" width="600" />
+  <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/alena_aenami-eclipse-catppuccin_red.png" width="600" />
   
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/catppuccino/catppuccino_rosewater.jpg" width="600" />
   <img src="https://raw.githubusercontent.com/andreasgrafen/wallpapers/main/catppuccin/catppuccino/catppuccino_flamingo.jpg" width="600" />
